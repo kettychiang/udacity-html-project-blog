@@ -1,0 +1,11 @@
+/* Quote */
+#a {
+    quotes: "'" "'";
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+div.a {
+    text-align: center;
+}
